@@ -59,7 +59,7 @@
    - Being somewhat technophobe Janette will not uses the systems outside of work or more than necessary.
 
 ## Nebojsa Djeric
-![Neboja]
+![Neboja](https://gitlab.ecs.vuw.ac.nz/-/ide/project/course-work/swen303/2021/project1/t1/argroup1p1/tree/master/-/Images/Nebojsa.jpg/)
  * Description
    - Nebojsa is a 24-year-old domestic student studying at VUW. He is studying busniess and is finishing his masters. He has been a tutor for multiple courses and is experienced with both giving lectures and tutorials. He loves helping fellow students and helping them fulfill their academic goals
  * Activities
