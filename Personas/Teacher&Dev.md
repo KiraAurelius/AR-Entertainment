@@ -3,7 +3,7 @@
 ## Lucy
 ![Lucy](https://gitlab.ecs.vuw.ac.nz/-/ide/project/course-work/swen303/2021/project1/t1/argroup1p1/tree/master/-/Images/Lucy.png/)
  * Description
-   - Lucy is a 23 years old domestic university student living on Terrace Street in Te Aro. She's studying at Victoria University of Wellington and currently is on her 4th and final year. Lucy major in Computer Graphics. Being on her last year she's been actively working on many projects and keeping up with her studies.
+   - Lucy is a 23 years old domestic university student living on Terrace Street in Te Aro. She's studying at Victoria University of Wellington and currently is on her 4th and final year. Lucy major in Computer Graphics. Being on her last year she's been actively working on many projects and keeping up with her studies as well as being tutors.
  * Activities
    -	Lucy spends most of her days either studying in library or working on mini-projects. She has a strict rules of not working on the weekends so she relaxes by going to town and hanging out.
  * Attitudes
@@ -28,6 +28,7 @@
    - She has a lot of experiences when it comes to interfaces as it is part of her studies however she's still very cautious and will make sure she knows all the tools and buttons.
  * Tinkering
    - Being very busy with her final year for her bachelor degree she doesn't have a lot of time on her hands but she will still tinker with the systems as much as possible.
+
 ## Janette
 ![Janette](https://gitlab.ecs.vuw.ac.nz/-/ide/project/course-work/swen303/2021/project1/t1/argroup1p1/tree/master/-/Images/Janette.png/)
  * Description
@@ -56,5 +57,34 @@
    - Janette is slow to take in information when dealing with technology but that’s mainly because of her mental state and she’s actually capable of processing information like anyone else.
  * Tinkering
    - Being somewhat technophobe Janette will not uses the systems outside of work or more than necessary.
+
+## Nebojsa Djeric
+![Neboja]
+ * Description
+   - Nebojsa is a 24-year-old domestic student studying at VUW. He is studying busniess and is finishing his masters. He has been a tutor for multiple courses and is experienced with both giving lectures and tutorials. He loves helping fellow students and helping them fulfill their academic goals
+ * Activities
+   -	Nebojsa is a person who mostly stays at home and study or doing his tutoring works. In his free time he spends playing online games with his friends
+ * Attitudes
+   - Nebojsa is highly-focused especially within a proper environment and he also has a good deal of patience when helping others learn.
+ * Aptitudes
+   - He has confident in his technology prowess even if he doesn't study computer-based majors himself
+ * Weaknesses
+   - Nebojsa is highly emotional and holds certain biases due to this.
+ * Domain Knowledge
+   - Nebojsa knows a lot about extra course work and summer projects
+ * System Knowledge
+   - Nebojsa is well-versed with familiar systems but this will be the first time he uses such systems as a tutor
+ * Interaction
+   - He will uses the systems few times a day depends on how many questions or help requests he receives from his students
+ * Priorities
+   - Nebojsa priorities his students first and then to his own studies and works
+ * Motivation
+   - He wants an easy to understand systems that works for both sides tutor and students alike.                                                                                                                             
+ * Risk Tolerance
+   - Nebojsa has enough patience and tolerance to work through any problems he might face but he would still prefer not to encounter any
+ * Information Processing
+   - Nebojsa is good at processing difficult information and even convert his knowledge and processed information to something easier to understand.
+ * Tinkering
+   - He does not like to tinker as he's always busy with something else.
 
 
