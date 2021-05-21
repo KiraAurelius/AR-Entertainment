@@ -1,6 +1,6 @@
 # Teacher Personas
 ## Lucy
-<img src="Images/Personas/Lucy.png"  width="100%" height="100%">
+<img src="Images/personas/Lucy.png"  width="100%" height="100%">
 
  * Description
    - Lucy is a 23 years old domestic university student living on Terrace Street in Te Aro. She's studying at Victoria University of Wellington and currently is on her 4th and final year. Lucy major in Computer Graphics. Being on her last year she's been actively working on many projects and keeping up with her studies as well as being tutors.
@@ -30,7 +30,7 @@
    - Being very busy with her final year for her bachelor degree she doesn't have a lot of time on her hands but she will still tinker with the systems as much as possible.
 
 ## Janette
-<img src="Images/Personas/Janette.png"  width="100%" height="100%">
+<img src="Images/personas/Janette.png"  width="100%" height="100%">
 
  * Description
    - Janette is a 35-year-old single mother of three, her oldest Jakob, who is 18 finished high-school a year ago and is currently working full time at a pet store.
@@ -60,7 +60,7 @@
    - Being somewhat technophobe Janette will not uses the systems outside of work or more than necessary.
 
 ## Nebojsa Djeric
-<img src="Images/Personas/Nebojsa.png"  width="100%" height="100%">
+<img src="Images/personas/Nebojsa.png"  width="100%" height="100%">
 
  * Description
    - Nebojsa is a 24-year-old domestic student studying at VUW. He is studying busniess and is finishing his masters. He has been a tutor for multiple courses and is experienced with both giving lectures and tutorials. He loves helping fellow students and helping them fulfill their academic goals
