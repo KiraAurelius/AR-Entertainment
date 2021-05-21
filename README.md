@@ -1,17 +1,17 @@
 # SWEN303 2020 Final Project - Part 1 Prototyping - AR Entertain 1
 
-### Background
+# Background
 
-### Personas
+# Personas
 
-### Scenarios
+# Scenarios
 
-### Designs ideation
+# Designs ideation
 
-### Design review
+# Design review
 
-### Prototype
+# Prototype
 
-### Video
+# Video
 
-### Group Reflection
+# Group Reflection
