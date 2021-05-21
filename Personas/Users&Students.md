@@ -1,4 +1,4 @@
-# Users & Students Personas
+# Users&Students Personas
 ## Dom
 <img src="Images/personas/Dom.png"  width="20%" height="20%">
 
@@ -29,31 +29,31 @@
  * Tinkering
    - Dom is a curious being and will be sure to explore more of the system on his own.
 
-## Matt
-![Matt](Images/personas/Matt.png/)
+## John Smith
+![John Smith](Images/personas/Matt.png/)
  * Description
-   - Matt is an 18-year-old highschool student. He avoids investing more time in school than he has to. He's got minimum passing grades most of the time. He naturally avoids any sort of stress unless there are reasons or personal interests in it. He plays video games only to pass the time with his peers and also plays a few sports. He tries to enjoy the time he has right now.
+   - John Smith is an 18-year-old highschool student. He avoids investing more time in school than he has to. He's got minimum passing grades most of the time. He naturally avoids any sort of stress unless there are reasons or personal interests in it. He plays video games only to pass the time with his peers and also plays a few sports. He tries to enjoy the time he has right now.
  * Activities
-   - Matt spends most of his time playing games and sports, anything to keep him from studying. On rare occasions he'll go wandering town or watching movies. He has no part-time job or has intentions to do so
+   - John spends most of his time playing games and sports, anything to keep him from studying. On rare occasions he'll go wandering town or watching movies. He has no part-time job or has intentions to do so
  * Attitudes
-   - Matt is rebellious and a bit of a delinquency case but he also has good qualities like tendencies to find the fastest way to do important things. This sometimes lead to the compromise of the quality of his works, he doesn't like being told what to do and tend to do things his own way or things he believe he figured out on his own
+   - John is rebellious and a bit of a delinquency case but he also has good qualities like tendencies to find the fastest way to do important things. This sometimes lead to the compromise of the quality of his works, he doesn't like being told what to do and tend to do things his own way or things he believe he figured out on his own
  * Aptitudes
-   - Matt is highly extroverted and easily socialized. Being with his friends is how he prefers spending his time
+   - John is highly extroverted and easily socialized. Being with his friends is how he prefers spending his time
  * Weaknesses
-   - Matt has trouble staying motivated and he is often being careless due to this or even when motivated as a habit
+   - John has trouble staying motivated and he is often being careless due to this or even when motivated as a habit
  * Domain Knowledge
-   - Matt played a few games before and there are a few has intergrated AR systems but nothing as a full blown professional systems.
+   - John played a few games before and there are a few has intergrated AR systems but nothing as a full blown professional systems.
  * System Knowledge
-   - Matt has basic knowledge and expectations based on his experiences.
+   - John has basic knowledge and expectations based on his experiences.
  * Interaction
    - He expects to only uses the systems only when necessary and no more, maybe 1-2 times a week.
  * Priorities
    - Not wanting to spend more time using the systems than he has to be, he prefers it to be easy to use and quick to respond
  * Motivation
-   - Matt wants the minimum for what he expects from a school-related systems and as he's a careless person by nature something with reminders will also be helpful                                                                                                                          
+   - John wants the minimum for what he expects from a school-related systems and as he's a careless person by nature something with reminders will also be helpful                                                                                                                          
  * Risk Tolerance
-   - Matt is surprisingly tolerance to errors and mistakes, he finds it funny sometimes when systems errors come up. He will still give up if there are too many or too much information or fixes requires.
+   - John is surprisingly tolerance to errors and mistakes, he finds it funny sometimes when systems errors come up. He will still give up if there are too many or too much information or fixes requires.
  * Information Processing
-   - Just like how he approaches his studies, Matt is slow or unmotivated to process new information.
+   - Just like how he approaches his studies, John is slow or unmotivated to process new information.
  * Tinkering
-   - Matt will not subconciously tinker the systems by himself but might be tricked into doing it.
+   - John will not subconciously tinker the systems by himself but might be tricked into doing it.
