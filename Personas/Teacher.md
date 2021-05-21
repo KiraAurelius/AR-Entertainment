@@ -1,6 +1,7 @@
 # Teacher Personas
 ## Lucy
-![Lucy](https://gitlab.ecs.vuw.ac.nz/-/ide/project/course-work/swen303/2021/project1/t1/argroup1p1/tree/master/-/Images/Lucy.png/)
+<img src="Images/Lucy.png"  width="100%" height="100%">
+
  * Description
    - Lucy is a 23 years old domestic university student living on Terrace Street in Te Aro. She's studying at Victoria University of Wellington and currently is on her 4th and final year. Lucy major in Computer Graphics. Being on her last year she's been actively working on many projects and keeping up with her studies as well as being tutors.
  * Activities
@@ -29,7 +30,8 @@
    - Being very busy with her final year for her bachelor degree she doesn't have a lot of time on her hands but she will still tinker with the systems as much as possible.
 
 ## Janette
-![Janette](https://gitlab.ecs.vuw.ac.nz/-/ide/project/course-work/swen303/2021/project1/t1/argroup1p1/tree/master/-/Images/Janette.png/)
+<img src="Images/Janette.png"  width="100%" height="100%">
+
  * Description
    - Janette is a 35-year-old single mother of three, her oldest Jakob, who is 18 finished high-school a year ago and is currently working full time at a pet store.
  * Activities
