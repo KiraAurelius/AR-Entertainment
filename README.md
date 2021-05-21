@@ -43,6 +43,7 @@ AREntertain will be a vital program for inspiring future engineers. It will give
 
 # Prototype
 [Prototype Explanation](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/tree/master/prototype/prototype.md)  
+
 [Prototype Source File](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/tree/master/prototype/GPPrototype.xd)
 
 # Video
