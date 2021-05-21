@@ -38,7 +38,7 @@ AREntertain will be a vital program for inspiring future engineers. It will give
 ![Heuristic Evaluations](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/tree/master/Heuristic%20Evaluations)
 # Prototype
 ### Login screen:
-<img src="Images/screens/loginscreen.png"  width="25%" height="25%">
+<img src="Images/screens/loginscreen.png"  width="12.5%" height="12.5%">
 
 A straightforward app login screen. Allows users to stay logged in and quickly reset their password. Uses the keyobard of the operating system on which the app is running.
 
