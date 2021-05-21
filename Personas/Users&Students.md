@@ -1,4 +1,4 @@
-# Users&Students Personas
+# Users & Students Personas
 ## Dom
 <img src="Images/personas/Dom.png"  width="20%" height="20%">
 
