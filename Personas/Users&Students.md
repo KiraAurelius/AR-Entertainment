@@ -1,6 +1,7 @@
 # Users&Students Personas
 ## Dom
 <img src="Images/personas/Dom.png"  width="20%" height="20%">
+
  * Description
    - Dom is a 17-year-old high school student with interests in engineering and programming, however he's still very unsure if that is the right path for him and still looking for inspiration.
  * Activities
