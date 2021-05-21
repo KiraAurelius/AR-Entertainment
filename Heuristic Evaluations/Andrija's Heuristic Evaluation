@@ -1,0 +1,184 @@
+The following 4 designs will be judged using the 10 Usability Heuristics for User Interface Design:
+#1: Visibility of system status
+#2: Match between system and the real world
+#3: User control and freedom
+#4: Consistency and standards
+#5: Error prevention
+#6: Recognition rather than recall
+#7: Flexibility and efficiency of use
+#8: Aesthetic and minimalist design
+#9: Help users recognize, diagnose, and recover from errors
+#10: Help and documentation
+
+Each heuristic of the design will be rated 1 to 10.
+Furthermore, the 4 designs will be rated against 3 points:
+1:	Standards and familiarity
+How familiar and easy to understand the system is. how quick the user can
+understand the system's functions. 
+Summarizes heuristic 2, 4 and 6.
+
+2:	User usage and efficiency.
+	How little of a headache users get and how user friendly it feels.
+	Summarizes heuristic 1, 5, 7, 9 and 10.
+
+3:	Aesthetic
+	The minimalism and simplicity of the design.
+	Summarizes heuristic 3 and 8.
+
+ 
+
+Nhan Tran	300444682
+View /Create 3D models over select poster in VR.
+
+Visibility of system status	4/10
+System Device is generally not provided within the application/UI
+
+Match between system and the real world	9/10
+good use of easily recognizable symbols	
+
+User control and freedom	7/10	
+easy navigation between states
+
+Consistency and standards	9/10
+All aspects of the application and UI follow consistent design methods	
+
+Error prevention	8/10
+With a simple design, errors are unlikely
+	
+Recognition rather than recall	 10/10
+clear and easily readable UI
+
+Flexibility and efficiency of use	5/10
+Yes the system is easily navigated, but would be good to have more shortcuts
+
+Aesthetic and minimalist design	10/10	
+With a simplistic UI, all the information is easily readable
+
+Help users recognize, diagnose, and recover from errors	5/10	
+Not covered, but not nessesery as well
+
+Help and documentation	10/10 	
+Both Dev and User have their own help pages, as well as tutorials being accessible
+
+
+Summary in three points:
+1:	Standards and familiarity	9/10
+2:	User's usage and efficiency.	7/10
+3:	Aesthetic.			8/10
+ 
+
+Lillian Hide-Tobin	300451675
+AR advertisement.
+
+Visibility of system status	6/10	
+No on System Device, however is easily deciphered
+
+Match between system and the real world	9/10
+Clear and simple labels, and a tutorial helps for people unfamiliar with the system
+
+User control and freedom	10/10	
+easy access to states and fixing unwanted actions with the return button
+
+Consistency and standards	8/10	
+Follows consistency, with some minor changes in design
+
+Error prevention	9/10	
+states have a small posabilities of errors
+
+Recognition rather than recall		10/10	
+everything is easily available to the user, exept in camera mode(expected)
+
+Flexibility and efficiency of use	6/10 	
+No shortcuts except the bottom bar.
+
+Aesthetic and minimalist design	8/10	
+minimalist and prioritizes the systems content of the given state
+
+Help users recognize, diagnose, and recover from errors	6/10	
+Error when a failed screen happens
+
+Help and documentation	8/10	
+tutorials being accessible at all times. 
+
+Summary in three points:
+1:	Standards and familiarity.		9/10
+2:	User's usage and efficiency.		9/10
+3:	Aesthetic.				7/10
+
+Jeremiah Choi 	300474835 
+Strategy/Tactics AR-powered game
+
+Visibility of system status	10/10
+The states are clearly represented on-screen.
+
+Match between system and the real world	7/10	
+The symbols and terminology is familiar and known the targer user, however not to the major public.
+
+User control and freedom	10/10	
+easy access to states and returning ot previus state with the back button
+
+Consistency and standards	10/10	
+System uses game standers, as well as a consistent design
+
+Error prevention	6/10	
+With a complicated system, such as a game, errors are common, a back buttot helps quite a lot atleast.
+
+Recognition rather than recall		9/10	
+Clear a simple labels with text and images, its intuitive what they do
+
+Flexibility and efficiency of use	3/10	
+UI is fixed and non flexiable, exept the back button
+
+Aesthetic and minimalist design	8/10	
+UI only shows what is necessary at the given state, whitch is all you could ask for in a game system.
+
+Help users recognize, diagnose, and recover from errors	6/10
+We have a example of an error, however it with the given system, we can exept more kinds or errors
+
+Help and documentation	1/10 	
+No tutorial or help page
+
+
+Summary in three points:
+1:	Standards and familiarity	8/10
+2:	User's usage and efficiency.	4/10
+3:	Aesthetic.			9/10
+
+Jack Rodgers 300446310
+Imbedding and integration of AR elements into university advertising material
+
+Visibility of system status	10/10
+The current state is clearly indicated
+
+Match between system and the real world	8/10	
+familiar symbolody and well used UI text, some uses of jargon
+
+User control and freedom	10/10	
+All features that you would need are incorporated into the system
+
+Consistency and standards	10/10	
+System is consistent and uses most if not all VUW standards
+
+Error prevention	10/10	
+clear and concise warning screens
+
+Recognition rather than recall		10/10	
+Clear labels with text and images, easily recognizable
+
+Flexibility and efficiency of use	10/10	
+Interface is kept to a minimum, and prioritizes the systems content 
+
+Aesthetic and minimalist design	9/10	
+Design is applied consistently
+
+Help users recognize, diagnose, and recover from errors	10/10	
+Detailed error screens are always given
+
+Help and documentation	10/10 	
+clear and easy to understand tutorial is given to the user.
+
+
+Summary in three points:
+1:	Standards and familiarity	10/10
+2:	User's usage and efficiency.	9/10
+3:	Aesthetic.			10/10
