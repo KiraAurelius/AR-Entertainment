@@ -1,0 +1,186 @@
+The following 4 designs will be judged using the 10 Usability Heuristics for User Interface Design:
+#1: Visibility of system status
+#2: Match between system and the real world
+#3: User control and freedom
+#4: Consistency and standards
+#5: Error prevention
+#6: Recognition rather than recall
+#7: Flexibility and efficiency of use
+#8: Aesthetic and minimalist design
+#9: Help users recognize, diagnose, and recover from errors
+#10: Help and documentation
+
+Each heuristic of the design will be rated 1 to 10.
+Furthermore, the 4 designs will be rated against 3 points:
+1:	Standards and familiarity
+How familiar and easy to understand the system is. how quick the user can
+understand the system's functions. 
+Summarizes heuristic 2, 4 and 6.
+
+2:	User usage and efficiency.
+	How little of a headache users get and how user friendly it feels.
+	Summarizes heuristic 1, 5, 7, 9 and 10.
+
+3:	Aesthetic
+	The minimalism and simplicity of the design.
+	Summarizes heuristic 3 and 8.
+
+
+Lillian Hide-Tobin	300451675
+AR advertisement.
+
+Visibility of system status	6/10	
+The current mode can be deciphered from what's on-screen, but no label to indicate so. Hard to differentiate home from scanned.
+
+Match between system and the real world	9/10
+Uses clear and short language for navigational bar, the tutorial provides visual guidance for those who can’t understand the jargon.
+
+User control and freedom	10/10	
+Users can easily return to previous states and undo unwanted actions with the permanently available return button.
+
+Consistency and standards	7/10	
+Follows external consistency with top and bottom navigation bars, though return buttons are usually at the bottom.
+
+Error prevention	8/10	
+Not many states where errors can occur.
+
+Recognition rather than recall		9/10	
+All options available to the user at all times without being hidden away, except when a mode is in use.
+
+Flexibility and efficiency of use	6/10 	
+No shortcuts except the bottom bar.
+
+Aesthetic and minimalist design	8/10	
+Very minimalist and prioritizes the content on screen, whether camera feed or text.
+
+Help users recognize, diagnose, and recover from errors	6/10	
+Error messages for when scanning fails but not much else.
+
+Help and documentation	7/10	
+The tutorial is always accessible, but not present when required eg on the first-time launch.
+
+Summary in three points:
+1:	Standards and familiarity.		8/10
+2:	User's usage and efficiency.		7/10
+3:	Aesthetic.				9/10
+
+Nhan Tran	300444682
+View /Create 3D models over select poster in VR.
+
+Visibility of system status	4/10
+System status is visible more by the device it’s on rather than the UI itself.
+
+Match between system and the real world	8/10	
+Most of the UI uses common symbols in place of words
+
+User control and freedom	7/10	
+Users can easily return to previous states via the leave button.
+
+Consistency and standards	8/10	
+Both the developer and end-user varients of the system follow
+
+Error prevention	8/10	
+The system is very simple and only has 1 or 2 states overall, so it’s unlikely to get errors.
+
+Recognition rather than recall		10/10	
+All UI elements are visible to the user at once. All are of good size and easily visible.
+
+Flexibility and efficiency of use	4/10	
+Applying more to the dev UI than the user, it doesn’t have any shortcuts where it probably could.
+
+Aesthetic and minimalist design	10/10	
+UI is simple and clean, and prioritizes the content view as much as possible, even giving the ability to hide UI options.
+
+Help users recognize, diagnose, and recover from errors	1/10	
+ Not covered by the system.
+
+Help and documentation	8/10 	
+Both the dev and the user UI’s have help pages. Also, has tutorials presented when required.
+
+Summary in three points:
+1:	Standards and familiarity	9/10
+2:	User's usage and efficiency.	5/10
+3:	Aesthetic.			9/10
+
+
+Andrija Djorovic	300366056
+integrating embedded AR systems to the university lecture system.
+help students manage themselves.
+
+Visibility of system status	8/10
+System status is visible in the burger menu, but this is hidden away at times. Other states are labeled but not consistently.
+
+Match between system and the real world	10/10	
+Uses small keywords and abbreviations where full terminology might confuse a user.
+
+User control and freedom	7/10	
+Users can easily switch between menus with the burger menu, but no dedicated back button.
+
+Consistency and standards	9/10	
+My groups and groups are too similar. Asides from this menus are consistent and follow industry standards for things like messaging, scrolling, and dropdowns.
+
+Error prevention	5/10	
+Slips could be made when making groups, needs an edit button.
+
+Recognition rather than recall		9/10	
+ Users have to remember to press the burger menu, but then have easy recognition between states.
+
+Flexibility and efficiency of use	7/10	
+Users can swipe certain menus for faster access, and hide elements they don’t need.
+
+Aesthetic and minimalist design	9/10	
+Visual design is consistent and can hide unneeded elements
+
+Help users recognize, diagnose, and recover from errors	1/10	
+No error messages.
+
+Help and documentation	1/10 	
+No tutorials
+
+Summary in three points:
+1:	Standards and familiarity	10/10
+2:	User's usage and efficiency.	5/10
+3:	Aesthetic.			8/10
+
+
+
+
+
+
+Jeremiah Choi 	300474835 
+Strategy/Tactics AR-powered game
+
+Visibility of system status	10/10
+Each state is clearly labeled at the top of the screen.
+
+Match between system and the real world	7/10	
+Some jargon is used but it’s more game-specific than developer-specific.
+
+User control and freedom	8/10	
+All screens have a back button, but no undo button due to the nature of it being a game.
+
+Consistency and standards	8/10	
+Words are used with consistent meaning, UI follows a similar menu flow of other games.
+
+Error prevention	3/10	
+Hard to grade due to its nature as a game, slips are going to be commonplace.
+
+Recognition rather than recall		8/10	
+Both symbols and words are used for buttons and it isn’t too word-filled.
+
+Flexibility and efficiency of use	1/10	
+No way to customize and no shortcuts, or hide elements they don’t need
+
+Aesthetic and minimalist design	7/10	
+Not very minimalist because it’s a game, but does keep the UI to a minimum when content is on screen.
+
+Help users recognize, diagnose, and recover from errors	3/10	
+One error message on the battle screen.
+
+Help and documentation	1/10 	
+No tutorial.
+
+Summary in three points:
+1:	Standards and familiarity	8/10
+2:	User's usage and efficiency.	4/10
+3:	Aesthetic.			8/10
