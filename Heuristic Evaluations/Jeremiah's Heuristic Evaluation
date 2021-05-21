@@ -1,0 +1,181 @@
+The following 4 designs will be judged using the 10 Usability Heuristics for User Interface Design:
+#1: Visibility of system status
+#2: Match between system and the real world
+#3: User control and freedom
+#4: Consistency and standards
+#5: Error prevention
+#6: Recognition rather than recall
+#7: Flexibility and efficiency of use
+#8: Aesthetic and minimalist design
+#9: Help users recognize, diagnose, and recover from errors
+#10: Help and documentation
+
+Each heuristic of the design will be rated 1 to 10.
+Furthermore, the 4 designs will be rated against 3 points:
+1:    Standards and familiarity
+How familiar and easy to understand the system is. how quick the user can
+understand the system's functions. 
+Summarizes heuristic 2, 4 and 6.
+
+2:    User usage and efficiency.
+    How little of a headache users get and how user friendly it feels.
+    Summarizes heuristic 1, 5, 7, 9 and 10.
+
+3:    Aesthetic
+    The minimalism and simplicity of the design.
+    Summarizes heuristic 3 and 8.
+
+
+Lillian Hide-Tobin    300451675
+AR advertisement.
+
+Visibility of system status    6/10    
+The only way to tell if it's scanned is if it's missing the box.
+
+Match between system and the real world    8/10
+Very familiar, very similar to covid app.
+
+User control and freedom    5/10    
+No customization needed, no room for any options.
+
+Consistency and standards    8/10    
+very consistent, easy to understand when already familiar.
+
+Error prevention    8/10    
+Not much room for error.
+
+Recognition rather than recall        8/10    
+Very easy to recognize, especially the qr scan box.
+
+Flexibility and efficiency of use    5/10     
+None needed, light weight program.
+
+Aesthetic and minimalist design    8/10    
+Very minimalistic. very simple.
+
+Help users recognize, diagnose, and recover from errors    6/10    
+Not much needed, provides a help page.
+
+Help and documentation    10/10    
+Not much needed, provides a help page.
+
+Summary in three points:
+1:    Standards and familiarity.        8/10
+2:    User's usage and efficiency.        8.4/10
+3:    Aesthetic.                8/10
+
+Nhan Tran    300444682
+Allow users to create 3d models whilst in VR.
+
+Visibility of system status    4/10
+No obvious way of distinguishing between pages. (view and dev)
+
+Match between system and the real world    5/10    
+Very new stuff. nothing to compare with. tut/login are standard.
+
+User control and freedom    8/10    
+UI customization is not really needed.
+
+Consistency and standards    5/10    
+Very new design with a very unique goal to achieve.
+
+Error prevention    7/10    
+No undo button in dev mode. asks for confirmation. hard to mess system up really.
+
+Recognition rather than recall        8/10    
+very typical round VR buttons displayed.
+
+Flexibility and efficiency of use    9/10    
+could very easily get used to controls. though hard at first.
+
+Aesthetic and minimalist design    9/10    
+very minimalistic, no unnecessary things.
+
+Help users recognize, diagnose, and recover from errors    5/10    
+Not much room for usage error, not much 
+
+Help and documentation    9/10     
+Offers tutorial page.
+
+Summary in three points:
+1:    Standards and familiarity    6/10
+2:    User's usage and efficiency.    6.8/10
+3:    Aesthetic.            6.5/10
+
+
+Andrija Djorovic    300366056
+integrating embedded AR systems to university lecture system.
+help students manage themselves.
+
+Visibility of system status    6/10
+no loading screens. but could implement easily.
+
+Match between system and the real world    10/10    
+follows standards.
+
+User control and freedom    4/10    
+no aesthetic change settings yet.
+
+Consistency and standards    10/10    
+follows standards
+
+Error prevention    7/10    
+awaits confirmations. hard to tell.
+
+Recognition rather than recall        10/10    
+very easy to understand, similar to google's UI. Could pick up very quickly.
+
+Flexibility and efficiency of use    9/10    
+very minimalistic, very little to learn. easy to pick up.
+
+Aesthetic and minimalist design    8/10    
+very minimalistic, very simple aesthetic.
+
+Help users recognize, diagnose, and recover from errors    6/10    
+not much room for users to fall into an error.
+
+Help and documentation    10/10     
+none needed, none required
+
+Summary in three points:
+1:    Standards and familiarity    10/10
+2:    User's usage and efficiency.    7.6/10
+3:    Aesthetic.            5/10
+
+Jack Rodgers    300446310
+Scan advert posters, display AR holograms, advertise.
+
+Visibility of system status    8/10
+very informative of the system.
+
+Match between system and the real world    9/10    
+very similar to many existing apps like it.
+
+User control and freedom    7/10    
+not much room, or need for it. offers some customization.
+
+Consistency and standards    9/10    
+very similar, very consistent.
+
+Error prevention    9/10    
+minimalistically lacking features that reduces room for error.
+
+Recognition rather than recall        9/10    
+very similar, very consistent.
+
+Flexibility and efficiency of use    8/10    
+very minimalistic, very little to learn. easy to pick up.
+
+Aesthetic and minimalist design    9/10    
+very simple and clean aesthetic.
+
+Help users recognize, diagnose, and recover from errors    9/10    
+very informative error messages.
+
+Help and documentation    6/10     
+offers tutorial.
+
+Summary in three points:
+1:    Standards and familiarity    9/10
+2:    User's usage and efficiency.    8/10
+3:    Aesthetic.            8/10
