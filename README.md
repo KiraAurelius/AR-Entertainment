@@ -1,11 +1,16 @@
-# SWEN303 2020 Final Project - Part 1 Prototyping - AR Entertain 1
+# SWEN303 Project 1 - Part 1 Prototyping - AR Entertain 1
+
+## Lillian Hide-Tobin 300451675
+## Nhan Tran 300444682
+## Andrija Djorovic	300366056
+## Jeremiah Choi 300474835 
+## Jack Rodgers 300446310
 
 # Background
 ## **Introduction**
 
 ### _Description_
-
-AREntertain is a Education Management nonprofit organisation with the focus of the introduction of AR and VR technology for the next generation of tertiary students. With a mixture of educational and social activities, it tries to help future students with practical and real-world examples of various subjects. AREntertain is run with the help of Victoria University and other tertiary education providers. 
+AREntertain is an Education Management nonprofit organization with a focus on the introduction of AR and VR technology for the next generation of tertiary students. With a mixture of educational and social activities, it tries to help future students with practical and real-world examples of various subjects. AREntertain is run with the help of Victoria University and other tertiary education providers. 
 
 Offering lectures from tertiary educators and working professionals who will show and educate the participants. Also creating groups for like-minded students to share their knowledge and learn together. Using the tool to manage your groups and lectures that you want to participate in. They can also use the tool to manage and view your interests and timetable of all the lectures and events, and ask questions to the organizers and lecturers.
 
@@ -47,6 +52,7 @@ AREntertain will be a vital program for inspiring future engineers. It will give
 [Prototype Source File](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/tree/master/prototype/GPPrototype.xd)
 
 # Video
+[Link to video walkthrough](https://youtu.be/HyVuzoF7Fxs)
 
 # Group Reflection
 [Group Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Group%20Reflection%20-%20Prototype.md)
