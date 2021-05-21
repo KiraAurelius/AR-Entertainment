@@ -1,6 +1,6 @@
 # Users&Students Personas
 ## Dom
-![Dom](Images/personas/Dom.png/)
+![Dom](Images/personas/Dom.png/ width="30%" height="30%")
  * Description
    - Dom is a 17-year-old high school student with interests in engineering and programming, however he's still very unsure if that is the right path for him and still looking for inspiration.
  * Activities
