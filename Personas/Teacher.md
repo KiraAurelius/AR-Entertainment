@@ -1,4 +1,4 @@
-# Teacher/Dev Personas
+# Teacher Personas
 ## Lucy
 ![Lucy](https://gitlab.ecs.vuw.ac.nz/-/ide/project/course-work/swen303/2021/project1/t1/argroup1p1/tree/master/-/Images/Lucy.png/)
  * Description
