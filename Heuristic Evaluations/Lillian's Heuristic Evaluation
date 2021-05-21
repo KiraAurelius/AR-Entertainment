@@ -1,0 +1,188 @@
+The following 4 designs will be judged using the 10 Usability Heuristics for User Interface Design:
+#1: Visibility of system status
+#2: Match between system and the real world
+#3: User control and freedom
+#4: Consistency and standards
+#5: Error prevention
+#6: Recognition rather than recall
+#7: Flexibility and efficiency of use
+#8: Aesthetic and minimalist design
+#9: Help users recognize, diagnose, and recover from errors
+#10: Help and documentation
+
+Each heuristic of the design will be rated 1 to 10.
+Furthermore, the 4 designs will be rated against 3 points:
+1:	Standards and familiarity
+How familiar and easy to understand the system is. how quick the user can
+understand the system's functions. 
+Summarizes heuristic 2, 4 and 6.
+
+2:	User usage and efficiency.
+	How little of a headache users get and how user friendly it feels.
+	Summarizes heuristic 1, 5, 7, 9 and 10.
+
+3:	Aesthetic
+	The minimalism and simplicity of the design.
+	Summarizes heuristic 3 and 8.
+
+
+Nhan Tran	300444682
+View /Create 3D models over select poster in VR.
+
+Visibility of system status	3/10
+System Device is generally not provided within the application/UI
+
+
+Match between system and the real world	9/10
+UI Has good use of easily recognizable symbols	
+
+
+User control and freedom	7/10	
+User is easily able to navigate between various states
+
+Consistency and standards	8/10
+All aspects of the application and UI follow consistent design methods	
+
+Error prevention	8/10
+System is designed in such a way, as to be extremely simple, and therefore errors are unlikely
+	
+Recognition rather than recall	 9/10
+UI is clear and easily readable, nothing is too small, nor is there anything that feels cramped	
+
+Flexibility and efficiency of use	6/10
+While generally the app is easy and simple to navigate, it may be a good idea to have a greater number of shortcuts to make navigation easier	
+
+Aesthetic and minimalist design	10/10	
+UI is kept extremely simplistic to prioritize what the user wants to see, making the information easily accessible 
+
+Help users recognize, diagnose, and recover from errors	N/A/10	
+Not necessary, due to errors likely being extremely rare
+
+Help and documentation	10/10 	
+Both sides (Dev + User) have their own help pages, along with tutorials being accessible when needed.
+
+
+Summary in three points:
+1:	Standards and familiarity	9/10
+2:	User's usage and efficiency.	7/10
+3:	Aesthetic.			9/10
+
+Andrija Djorovic	300366056
+integrating embedded AR systems to the university lecture system.
+help students manage themselves.
+
+Visibility of system status	7/10
+System status is accessible via a menu, however this is not always accessible 
+
+
+Match between system and the real world	10/10	
+Uses familiar symbology, as well as terminology known by most people, rather than jargon.
+
+User control and freedom	8/10	
+User is able to navigate via the navigation menu, however this is the only method of navigation.
+
+Consistency and standards	10/10	
+UI design is consistent across the application, with all design choices being in line with best practice.
+
+Error prevention   4/10
+Does not seem to have a way to delete/edit groups or messages after they have been created/sent	
+
+Recognition rather than recall	 10/10
+The different states are clearly labeled and indicated, meaning the user is not forcer to remember which button corresponds to which state.	
+
+Flexibility and efficiency of use	9/10	
+Users are, in most cases, able to quickly access what they need, as well as navigate to different states in a clear and consistent manner.
+
+Aesthetic and minimalist design	10/10	
+Design, layout and palette are consistent across the application
+
+Help users recognize, diagnose, and recover from errors	1/10	
+No error messages for bad input (I.e not allowed group name)
+
+Help and documentation	1/10 	
+No tutorials are provided to help the user learn to navigate the app
+
+
+Summary in three points:
+1:	Standards and familiarity	9/10
+2:	User's usage and efficiency.	6/10
+3:	Aesthetic.			7/10
+
+Jeremiah Choi 	300474835 
+Strategy/Tactics AR-powered game
+
+Visibility of system status	10/10
+The states are clearly represented on-screen.
+
+Match between system and the real world	8/10	
+Generally, any symbols/terminology used is widely familiar and likely known to the user, however some game jargon is used.
+
+User control and freedom	10/10	
+User is able to easily navigate through menus, as well as return to the previous screen via a back button
+
+Consistency and standards	9/10	
+UI matches similar games of the type, as well as having a consistent design style.
+
+Error prevention	7/10	
+While it is difficult to gauge what sort of errors could occur, the existence of a back button helps to mitigate accidental button presses.
+
+Recognition rather than recall		9/10	
+All buttons are clearly labelled with text and images, making them recognizable, as well as easily being able to tell what they do.
+
+Flexibility and efficiency of use	2/10	
+User cannot really alter the layout of the UI in any way
+
+Aesthetic and minimalist design	8/10	
+Due to the applications nature, minimalism is hard to achieve, however, the UI is no cluttered, and UI items are kept to what is necessary only.
+
+Help users recognize, diagnose, and recover from errors	6/10	
+We are able to see an error message for one situation, however we cannot know about others
+
+Help and documentation	1/10 	
+The user is not presented a tutorial, which is commonplace for this type of game.
+
+
+Summary in three points:
+1:	Standards and familiarity	9/10
+2:	User's usage and efficiency.	3/10
+3:	Aesthetic.			9/10
+
+Jack Rodgers 300446310
+Imbedding and integration of AR elements into university advertising material
+
+Visibility of system status	9/10
+It is clearly indicated by UI elements what state the user is currently in, as well as by buttons
+
+
+Match between system and the real world	8/10	
+In general, highly familiar symbology and UI text is used, however some jargon is used.
+
+User control and freedom	10/10	
+High number of navigational features, with back buttons, navigation menus, as well as a search bar
+
+Consistency and standards	10/10	
+UI design is applied consistently, as well as information regarding states remaining consistent.
+
+Error prevention	10/10	
+Users are given clear and concise warning screens whenever attempting something that would have consequences of any kind.
+
+Recognition rather than recall		10/10	
+All elements are clearly labelled with text as well as images, making them easily recognizable.
+
+Flexibility and efficiency of use	10/10	
+Interface is kept to a minimum, which, alongside the large amount of navigation features, makes interfacing with the app extremely easy and efficient.
+
+Aesthetic and minimalist design	9/10	
+Design is applied consistently, and UI is not overcrowded.
+
+Help users recognize, diagnose, and recover from errors	10/10	
+Detailed error screens are always given
+
+Help and documentation	10/10 	
+A clear and concise tutorial is given to the user.
+
+
+Summary in three points:
+1:	Standards and familiarity	10/10
+2:	User's usage and efficiency.	9/10
+3:	Aesthetic.			10/10
