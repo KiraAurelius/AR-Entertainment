@@ -1,6 +1,6 @@
 # Users&Students Personas
 ## Dom
-![Dom](Images/Dom.png/)
+![Dom](Images/personas/Dom.png/)
  * Description
    - Dom is a 17-year-old high school student with interests in engineering and programming, however he's still very unsure if that is the right path for him and still looking for inspiration.
  * Activities
@@ -29,7 +29,7 @@
    - Dom is a curious being and will be sure to explore more of the system on his own.
 
 ## Matt
-![Matt](Images/Matt.png/)
+![Matt](Images/personas/Matt.png/)
  * Description
    - Matt is an 18-year-old highschool student. He avoids investing more time in school than he has to. He's got minimum passing grades most of the time. He naturally avoids any sort of stress unless there are reasons or personal interests in it. He plays video games only to pass the time with his peers and also plays a few sports. He tries to enjoy the time he has right now.
  * Activities
