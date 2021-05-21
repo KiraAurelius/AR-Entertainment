@@ -46,4 +46,4 @@ AREntertain will be a vital program for inspiring future engineers. It will give
 # Video
 
 # Group Reflection
-[Group Reflection]()
+[Group Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Group%20Reflection%20-%20Prototype.md)
