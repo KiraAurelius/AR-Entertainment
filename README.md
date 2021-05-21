@@ -31,13 +31,13 @@ AREntertain will be a vital program for inspiring future engineers. It will give
 
 ![Teacher & Dev](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Personas/Teacher&Dev.md)
 # Scenarios
-
+![Scenarios](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Scenarios.md)
 # Designs ideation
 ![Designs ideation](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/tree/master/Designs%20ideation)
 # Design review
 ![Heuristic Evaluations](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/tree/master/Heuristic%20Evaluations)
 # Prototype
-
+![Prototype](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/tree/master/Images/screens)
 # Video
 
 # Group Reflection
