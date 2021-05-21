@@ -28,7 +28,7 @@ AREntertain will be a vital program for inspiring future engineers. It will give
 # Personas
 [Users & Students](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Personas/Users&Students.md)
 
-[Teacher & Dev](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Personas/Teacher&Dev.md)
+[Teacher & Dev](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Personas/Teacher.md)
 
 # Scenarios
 [Scenarios](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Scenarios.md)
