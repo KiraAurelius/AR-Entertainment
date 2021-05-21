@@ -23,19 +23,22 @@ The tool should be easy and simple to use, as is to help make participation in t
 
 ### _Importance to Stakeholders_
 
-
 AREntertain will be a vital program for inspiring future engineers. It will give students an understanding of where the industry is at the moment and where it is heading, and giving them the support they need to see if they are interested in studying software engineering. Having support from the industry leaders in VR/AR in New Zealand and Summer of Tech, AREntertain will help create the necessary engagement of interest.
 
 # Personas
 [Users & Students](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Personas/Users&Students.md)
 
-![Teacher & Dev](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Personas/Teacher&Dev.md)
+[Teacher & Dev](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Personas/Teacher&Dev.md)
+
 # Scenarios
-![Scenarios](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Scenarios.md)
+[Scenarios](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/Scenarios.md)
+
 # Designs ideation
-![Designs ideation](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/tree/master/Designs%20ideation)
+[Designs ideation](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/tree/master/Designs%20ideation)
+
 # Design review
-![Heuristic Evaluations](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/tree/master/Heuristic%20Evaluations)
+[Heuristic Evaluations](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/tree/master/Heuristic%20Evaluations)
+
 # Prototype
 
 # Video
