@@ -4,8 +4,8 @@
 As a group, we felt that project one generally had extremely high levels of familiarity and use of consistent and standard symbology. Such as utilizing clear and consistent design, as well as using familiar symbols in place of words (Where applicable.) However, we felt that the general usability and efficiency of the project could have been prioritized more, with a lack of error solving features being the largest issue in this aspect. As well as potentially adding a greater number of shortcuts with which to move between states. Although, due to the small number of states this may not be as much of an issue. Aesthetically this project was extremely well designed, with consistent use of design conventions as well as consistent application of symbology and colour, leading to a project that looks cohesive and professional.
 
 ### Summary in three points:
-1:	Standards and familiarity	    9/10
-2:	User's usage and efficiency.	7/10
+1:	Standards and familiarity	    9/10  
+2:	User's usage and efficiency.	7/10  
 3:	Aesthetic.			            8/10
 
 ## Project 2 (Andrija Djorovic)
