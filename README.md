@@ -66,7 +66,7 @@ AREntertain will be a vital program for inspiring future engineers. It will give
 ## Jack Rodgers 300446310
 
 # Usability Test Plan
-[Group Reflection](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/usabilitytestplan.md)
+[Usability Test Plan](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/usabilitytestplan.md)
 
 # Usability Test Results
 
