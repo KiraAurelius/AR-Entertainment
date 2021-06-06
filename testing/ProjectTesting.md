@@ -24,51 +24,63 @@ Roles: (need help here)
  - Jeremiah - Prototype main developer, testing navigator
  - Jack - Prototype main developer, testing navigator
  - Trung Nhan(trannhan) - Flexible protype developer, flexible report writer
- - Lilian - Main report writer
+ - Lillian - Main report writer
  - Andrija - Prototype designer
 
-Metrics: (need help here)
+Metrics: 
 
-Usability Goals: (since metrics is empty, should be improved when metrics are finished)
- - The testers have no problems navigating the basic and core functions and give positive feed back aethestic wise
+In terms of metrics, we primarily focused on the amount of time that the subject took to reach the goal. As well as whether or not they required help, how much confusion they showed while trying to complete the task, and what pages they (incorrectly) accessed while trying to find the correct page.
+
+Usability Goals: 
+ - The testers have no problems navigating the basic and core functions of the interface
+ - The application seems familiar and approachable to testers
+ - The testers view the aesthetic deisgn choices positively
+ - Navigation between states make sense to the testers
 
 Problem Severity:
- - All the problems that our group has observed after the testing are mostly design flaws that bear very little consequences to the overall
- experiences of the whole design
- - When encountering said problems the users are only slightly confused and able to quickly overcome after given a short amount of time, mostly due
- to having difficulties intrepreting the functionality of some of the buttons
+ - All the problems that our group observed after the testing are mostly design flaws that bear very little consequences to the overall
+ experiences of the design
+ - When encountering said problems the users were only slightly confused and able to quickly overcome after given a short amount of time, or   given some help, mostly due to confusion regarding what interactions would be available on a given page.
+
 ## Results (This is the 7th part of the requirement, in this part I was unable to comprehend the second point of the requirement so that needs improvement/completion)
 Generally, feedback was focused into a few areas:
--	The snack menu should always be accessible
--	A distinction between the “Discover” page and the “My groups”/”My events” pages
--	The tutorial should be easier to access and should be automatically displayed on first use.
--	The burger menu button should be replaced by a back button when the user is on a sub page
+
+-	The snack menu should always be accessible;  Users generally spent a larger than expected amount of time trying to access this menu, 
+and expressed confusion as to the menu only being accesible when the side menu is open. Oftentimes attempting to scroll downward before realising that opening the burger menu was the correct input.
+
+-	A distinction between the “Discover” page and the “My groups”/”My events” pages; Here users spent a much larger than expected amount trying to access this functionality. Users almost always opened either the "My Groups" or "My Events" page before opening the "Discover" page, and expressed confusion as to why these funcitons were seperated
+
+-	The tutorial should be easier to access and should be automatically displayed on first use; When trying to access the tutorial, users spent marginally more time than expected, and generally tried to access the tutorial through the burger menu before realising it was accesible via the snack menu. Testers expressed confusion as to why this functionality was not part of the burger menu.
+
+-	The burger menu button should be replaced by a back button when the user is on a sub page; When attempting to return to the previous page, users generally pressed on the burger menu button (left) rather than the back button (right) while this did not cause a large time difference when compared to the expected time, testers did express a large amount of confusion as to why the back button wasn't on the left, as would be standard in most mobile app designs.
+
 ## Changelog
 
 ## Discussion
-There are many interesting feedback we have received during the testings,
-among those we narrowed it down into 2 most crucial, interesting and major
-points
+We recieved a good amount of feedback during the tests,
+which we have narrowed down to two main points;
 
 ### 1/
-The first one is that many testers pointed out that they prefer the bottom
-tools bar that contains the tutorial button to be available more constantly,
-especially on the "home" page of the prototype. Even if they aren't they
-should be more accessible rather than only show up when side bar is activated.
-A suggestion was made for it to be hidden until scrolled all the way down the
-screen
+The first is that many testers pointed out that they prefer the bottom
+tools bar (Snack bar) to be accessible at all times, rather than just when the side bar is opened. 
+One suggestion was for it to be hidden until scrolled all the way down the
+screen, or simply having it at the bottom of the screen at all times.
 
 While most of us(the developer side) agree on this insight most of the
 testers also point out that this is mainly their personal opinion or preference
 and there are also testers who had no problems with the current way but
-still think it's a good idea if the tutorial button is more highligted.
+still think it's a good idea if the tutorial button is more highligted. Especially given
+that it is generally standard to have the snack bar accesible most (if not all) of the time,
+so this change would bring our design more inline with standard design practices.
 
 ### 2/
-The second feedback and the more crucial opinion is the confusion of the
+The second, and the more crucial piece of feedback is the confusion of the
 button "my groups/events" and "explore". The "explore" will take the user
 to a screen where they can choose new events/groups to join and 
-"my groups/events" are for added/joined events/groups. A solution that
-we managed to discussed with the testers and receive favorable feedback
+"my groups/events" are for added/joined events/groups. When asked to add a new
+group or event, users would first go to "My Event/Groups" before navigating to 
+the discover page, potentially due to these containing the word "Group" or "Event"
+A solution that was discussed with the testers and received favorable feedback
 is to include the "explore" button in the "my groups/events" respectively
 and the user can choose between the adding and viewing joined group in
 each perspective page. The design will be similar to the current "explore"
