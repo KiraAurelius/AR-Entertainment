@@ -23,7 +23,7 @@ Script/task:
 Roles: (need help here)
  - Jeremiah - Prototype main developer, testing navigator
  - Jack - Prototype main developer, testing navigator
- - Trung Nhan(trannhan) - Flexible protype developer, flexible report writer
+ - Trung Nhan(trannhan) - Flexible protype developer, report writer
  - Lillian - Main report writer
  - Andrija - Prototype designer
 
