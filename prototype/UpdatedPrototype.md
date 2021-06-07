@@ -2,9 +2,11 @@
 It now appears on the first login to help the user understand the app's content, as well as having the order of slides changed in case the user installed the app just to scan a poster.
 
 ### Find Groups/Events
+Previous:
 <img src="Images/screens/exploreventsscreen.png"  width="20%" height="20%">  
 <img src="Images/screens/mygroupsscreen.png"  width="20%" height="20%">  
-
+<br>
+Updated:
 <img src="Images/UpdatedScreens/Join_Events.png"  width="20%" height="20%">  
 
 Almost all of the testers had a problem with the explore page and its separation from the my events/groups pages. The explore page has been removed, and events and groups now have a single page each, with tabs to switch between looking for new events, or groups, and looking through those you've already joined. This eliminates the confusion caused by the explore page entirely and allows the user to quickly identify where to find new groups and events. Furthermore, it simplifies the navigational map of the app, reducing the important core features of the app down to three core pages.
