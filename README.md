@@ -59,12 +59,6 @@ AREntertain will be a vital program for inspiring future engineers. It will give
 
 # SWEN303 Project 1 - Part 2 Testing - AR Entertain 1
 
-## Lillian Hide-Tobin 300451675
-## Nhan Tran 300444682
-## Andrija Djorovic	300366056
-## Jeremiah Choi 300474835 
-## Jack Rodgers 300446310
-
 # Usability Test Plan
 [Usability Test Plan](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/usabilitytestplan.md)
 
