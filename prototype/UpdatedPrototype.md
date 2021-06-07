@@ -4,8 +4,7 @@ It now appears on the first login to help the user understand the app's content,
 ### Find Groups/Events
 Original:
 <br>
-<img src="Images/screens/exploreventsscreen.png"  width="20%" height="20%">  
-<img src="Images/screens/mygroupsscreen.png"  width="20%" height="20%">  
+<img src="Images/screens/exploreventsscreen.png"  width="20%" height="20%"> <img src="Images/screens/mygroupsscreen.png"  width="20%" height="20%">  
 <br>
 Updated:
 <br>
