@@ -18,7 +18,7 @@ The snack bar, which was only accessable from opening the burger menu, is now ac
 ### Burger Menu
 | Original | Updated |
 | -------- | ------- |
-| <img src="Images/screens/sidebar.png" width="358" height="757"> | <img src="Images/UpdatedScreens/All_Closed.png" width="358" height="757"> |
+| <img src="Images/screens/sidebar.png" width="358" height="757"> | <img src="Images/UpdatedScreens/Home_active_burger___1.png" width="358" height="757"> |
 
 The burger menu serves to hide it's contents until it is opened. Since the contents of the snack bar have been replaced with links to the three core pages, the previously linked non-core pages were moved into the burger menu. We feel this change is most relevant as the four pages were not as important as the three core pages, and thus should be hidden to the side appropriately. This also simplifies navigation further, as all non-core pages are to be primarily accessed via the burger menu.
 
