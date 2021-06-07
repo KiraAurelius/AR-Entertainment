@@ -21,11 +21,11 @@ Script/task:
  - T13 – Change the colour scheme of the app
 
 Roles: (need help here)
- - Jeremiah - Prototype main developer, testing navigator
- - Jack - Prototype main developer, testing navigator
- - Trung Nhan(trannhan) - Flexible protype developer, report writer
- - Lillian - Main report writer
- - Andrija - Prototype designer
+ - Jeremiah - Designer/Prototype Dev, Testing Overseer
+ - Jack - Designer/Prototype Dev, Testing Overseer
+ - Trung Nhan - Flexible protype developer, Secondary report writer
+ - Lillian - Main report writer, Testing note taker + Testing guide
+ - Andrija - Designer/Prototype Dev
 
 Metrics: 
 
@@ -56,6 +56,18 @@ and expressed confusion as to the menu only being accesible when the side menu i
 
 ## Changelog
 [Changelog](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/prototype/UpdatedPrototype.md)
+
+References for the 3 issues created:
+
+course-work/swen303/2021/project1/t1/argroup1p1#3
+course-work/swen303/2021/project1/t1/argroup1p1#2
+course-work/swen303/2021/project1/t1/argroup1p1#1
+
+Overall, we discussed the changes that needed be to made to the design as a group, with everyone contributing ideas as 
+to how the design could be improved/fixed to better suite the feedback we recieved.
+
+However, as Jeremiah and Jack were the group members assigned to the design side, the issues have been assigned to them.
+
 
 ## Discussion
 We recieved a good amount of feedback during the tests,
