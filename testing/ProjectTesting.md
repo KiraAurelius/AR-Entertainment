@@ -54,6 +54,9 @@ and expressed confusion as to the menu only being accesible when the side menu i
 
 -	The burger menu button should be replaced by a back button when the user is on a sub page; When attempting to return to the previous page, users generally pressed on the burger menu button (left) rather than the back button (right) while this did not cause a large time difference when compared to the expected time, testers did express a large amount of confusion as to why the back button wasn't on the left, as would be standard in most mobile app designs.
 
+## Changelog
+[Changelog](https://gitlab.ecs.vuw.ac.nz/course-work/swen303/2021/project1/t1/argroup1p1/-/blob/master/prototype/UpdatedPrototype.md)
+
 ## Discussion
 We recieved a good amount of feedback during the tests,
 which we have narrowed down to two main points;
